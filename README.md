@@ -2,7 +2,7 @@
 
 Replication code for:
 
-> Fufunan, R., Freese, J., & Olive [last name]. "Mode Effects and Temporal Continuity in the General Social Survey: Mode-Specific Weights for 2022 and 2024." SocArXiv. [link forthcoming]
+> Fufunan, R., Freese, J., & Jin, O. "Mode Effects and Temporal Continuity in the General Social Survey: Mode-Specific Weights for 2022 and 2024." SocArXiv. [link forthcoming]
 
 ## Overview
 
@@ -95,7 +95,7 @@ Run files in the following order. Each file sources `00_setup.R` and depends on 
 
 If you use these weights or replication code, please cite the paper above and this repository:
 
-> Fufunan, R., Freese, J., & Olive [last name]. (2025). gss-mode-weights [Software]. GitHub. https://github.com/[username]/gss-mode-weights
+> Fufunan, R., Freese, J., & Jin O. (2025). gss-mode-weights [Software]. GitHub. https://github.com/[username]/gss-mode-weights
 
 ## License
 
